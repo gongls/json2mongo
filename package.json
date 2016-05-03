@@ -1,0 +1,23 @@
+{
+  "name": "savejsontomongo",
+  "version": "1.0.2",
+  "description": "save a json into mongodb",
+  "main": "savejsontomongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongls/savejsontomongo.git"
+  },
+  "keywords": [
+    "json",
+    "mongo"
+  ],
+  "author": "gongls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gongls/savejsontomongo/issues"
+  },
+  "homepage": "https://github.com/gongls/savejsontomongo#readme"
+}
