@@ -5,7 +5,7 @@
 ```
 var savejsontomongo=require('savejsontomongo');
 //config mongoDB
-json2mongo.config({
+savejsontomongo.config({
   host:'localhost',
   port:27017,
   db:'test'
